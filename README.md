@@ -8,9 +8,9 @@
 |**Technical Education**| M.Sc. Information Technology Engirneering|
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,postman,docker" />
-    <img src="https://skillicons.dev/icons?py,django,fastapi,htmx,rabbitmq,selenium,redis,js,ts,html,css,react,redux,nextjs,vercel,powershell" />
+    <img src="https://skillicons.dev/icons?py,django,fastapi,htmx,rabbitmq,selenium,redis" />
     <img src="https://skillicons.dev/icons?js,ts,html,css,react,redux,nextjs,vercel,powershell" />
   </a>
 </p>
