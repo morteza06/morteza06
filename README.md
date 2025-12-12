@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,postman,docker" />
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,htmx,rabbitmq,selenium,redis" />
+    <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,postman,docker" /><br/>
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,htmx,rabbitmq,selenium,redis" /><br/>
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nextjs,vercel,powershell" />
   </a>
 </p>
