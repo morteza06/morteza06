@@ -1,16 +1,16 @@
 ## Hi there 👋
+### Key Skills  & Experiencs:
+|Area | Skills|
+|:--- | ---:|
+|**Back-End Development**| Python(Intermediate) , Django,Rest APIs,Git,Postman, Docker,fastapi,selenium|
+|**Database Managment**| Database fundementals and data modeling principles|
+|**Front-End Development**| HTML, CSS, JavaScript(Relevant for Django projects|
+|**Technical Education**| M.Sc. Information Technology Engirneering|
 
-<!--
-**morteza06/morteza06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,postman,docker" />
+    <img src="https://skillicons.dev/icons?py,django,fastapi,htmx,rabbitmq,selenium,redis,js,ts,html,css,react,redux,nextjs,vercel,powershell" />
+    <img src="https://skillicons.dev/icons?js,ts,html,css,react,redux,nextjs,vercel,powershell" />
+  </a>
+</p>
